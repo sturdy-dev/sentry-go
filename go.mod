@@ -1,6 +1,6 @@
 module github.com/getsentry/sentry-go
 
-go 1.15
+go 1.17
 
 require (
 	github.com/ajg/form v1.5.1 // indirect
